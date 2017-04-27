@@ -8,22 +8,80 @@
 
 /* Begin PBXBuildFile section */
 		632840871EAB34C700BFF1A2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632840861EAB34C700BFF1A2 /* AppDelegate.swift */; };
-		632840891EAB34C700BFF1A2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632840881EAB34C700BFF1A2 /* ViewController.swift */; };
 		6328408C1EAB34C700BFF1A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6328408A1EAB34C700BFF1A2 /* Main.storyboard */; };
 		6328408F1EAB34C700BFF1A2 /* FinalProjectV1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6328408D1EAB34C700BFF1A2 /* FinalProjectV1.xcdatamodeld */; };
 		632840911EAB34C700BFF1A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 632840901EAB34C700BFF1A2 /* Assets.xcassets */; };
 		632840941EAB34C700BFF1A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 632840921EAB34C700BFF1A2 /* LaunchScreen.storyboard */; };
+		63E11DBE1EB241BF00E57FD8 /* Iphone 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DB81EB241BF00E57FD8 /* Iphone 5.png */; };
+		63E11DBF1EB241BF00E57FD8 /* Iphone 5s.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DB91EB241BF00E57FD8 /* Iphone 5s.png */; };
+		63E11DC01EB241BF00E57FD8 /* Iphone 6 Plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DBA1EB241BF00E57FD8 /* Iphone 6 Plus.png */; };
+		63E11DC11EB241BF00E57FD8 /* Iphone 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DBB1EB241BF00E57FD8 /* Iphone 6.png */; };
+		63E11DC21EB241BF00E57FD8 /* IPhone 7 Plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DBC1EB241BF00E57FD8 /* IPhone 7 Plus.png */; };
+		63E11DC31EB241BF00E57FD8 /* Iphone 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DBD1EB241BF00E57FD8 /* Iphone 7.png */; };
+		63E11DC91EB241DB00E57FD8 /* broken battery.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DC41EB241DB00E57FD8 /* broken battery.png */; };
+		63E11DCB1EB241DB00E57FD8 /* broken charging.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DC61EB241DB00E57FD8 /* broken charging.png */; };
+		63E11DCC1EB241DB00E57FD8 /* broken screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DC71EB241DB00E57FD8 /* broken screen.png */; };
+		63E11DCD1EB241DB00E57FD8 /* charging issue.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DC81EB241DB00E57FD8 /* charging issue.png */; };
+		63E11DD41EB2420200E57FD8 /* galaxy note 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DCE1EB2420200E57FD8 /* galaxy note 4.jpeg */; };
+		63E11DD51EB2420200E57FD8 /* galaxy note 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DCF1EB2420200E57FD8 /* galaxy note 5.jpeg */; };
+		63E11DD61EB2420200E57FD8 /* galaxy s4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DD01EB2420200E57FD8 /* galaxy s4.jpeg */; };
+		63E11DD71EB2420200E57FD8 /* galaxy s5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DD11EB2420200E57FD8 /* galaxy s5.jpeg */; };
+		63E11DD81EB2420200E57FD8 /* galaxy s7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DD21EB2420200E57FD8 /* galaxy s7.jpeg */; };
+		63E11DD91EB2420200E57FD8 /* galaxyS6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DD31EB2420200E57FD8 /* galaxyS6.jpeg */; };
+		63E11DDD1EB24C0000E57FD8 /* broken camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DDC1EB24C0000E57FD8 /* broken camera.png */; };
+		63E11DDF1EB24CA600E57FD8 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E11DDE1EB24CA600E57FD8 /* Default-568h@2x.png */; };
+		63E13FC41EB06AE40033616E /* Customer+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E13FC21EB06AE40033616E /* Customer+CoreDataProperties.swift */; };
+		63E13FC51EB06AE40033616E /* Customer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E13FC31EB06AE40033616E /* Customer.swift */; };
+		63E13FC71EB102F70033616E /* AndroidDevicesTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E13FC61EB102F70033616E /* AndroidDevicesTVC.swift */; };
+		63E13FD81EB15E7A0033616E /* IphoneDevicesTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E13FD71EB15E7A0033616E /* IphoneDevicesTVC.swift */; };
+		63E13FEB1EB1C5990033616E /* SelectIssueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E13FEA1EB1C5980033616E /* SelectIssueViewController.swift */; };
+		63E13FED1EB232670033616E /* defaultprofile.png in Resources */ = {isa = PBXBuildFile; fileRef = 63E13FEC1EB232670033616E /* defaultprofile.png */; };
+		63E36CBC1EB26BFA00F11D6D /* TechniciansTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E36CBB1EB26BFA00F11D6D /* TechniciansTVC.swift */; };
+		63E36CBE1EB287B400F11D6D /* showTimeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E36CBD1EB287B400F11D6D /* showTimeViewController.swift */; };
+		63E998051EAC2141001EEAE0 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E998041EAC2141001EEAE0 /* LoginViewController.swift */; };
+		63E998071EAC262A001EEAE0 /* ProtectedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E998061EAC262A001EEAE0 /* ProtectedViewController.swift */; };
+		63E998091EAC4091001EEAE0 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E998081EAC4091001EEAE0 /* RegisterViewController.swift */; };
+		63E9980B1EAEAF4D001EEAE0 /* SelectDeviceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E9980A1EAEAF4D001EEAE0 /* SelectDeviceViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		632840831EAB34C600BFF1A2 /* FinalProjectV1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalProjectV1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		632840861EAB34C700BFF1A2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		632840881EAB34C700BFF1A2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		6328408B1EAB34C700BFF1A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6328408E1EAB34C700BFF1A2 /* FinalProjectV1.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FinalProjectV1.xcdatamodel; sourceTree = "<group>"; };
 		632840901EAB34C700BFF1A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		632840931EAB34C700BFF1A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		632840951EAB34C700BFF1A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63E11DB81EB241BF00E57FD8 /* Iphone 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Iphone 5.png"; path = "FinalProjectV1/Iphone Pictures/Iphone 5.png"; sourceTree = "<group>"; };
+		63E11DB91EB241BF00E57FD8 /* Iphone 5s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Iphone 5s.png"; path = "FinalProjectV1/Iphone Pictures/Iphone 5s.png"; sourceTree = "<group>"; };
+		63E11DBA1EB241BF00E57FD8 /* Iphone 6 Plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Iphone 6 Plus.png"; path = "FinalProjectV1/Iphone Pictures/Iphone 6 Plus.png"; sourceTree = "<group>"; };
+		63E11DBB1EB241BF00E57FD8 /* Iphone 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Iphone 6.png"; path = "FinalProjectV1/Iphone Pictures/Iphone 6.png"; sourceTree = "<group>"; };
+		63E11DBC1EB241BF00E57FD8 /* IPhone 7 Plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "IPhone 7 Plus.png"; path = "FinalProjectV1/Iphone Pictures/IPhone 7 Plus.png"; sourceTree = "<group>"; };
+		63E11DBD1EB241BF00E57FD8 /* Iphone 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Iphone 7.png"; path = "FinalProjectV1/Iphone Pictures/Iphone 7.png"; sourceTree = "<group>"; };
+		63E11DC41EB241DB00E57FD8 /* broken battery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "broken battery.png"; path = "FinalProjectV1/Issue Pictures/broken battery.png"; sourceTree = "<group>"; };
+		63E11DC61EB241DB00E57FD8 /* broken charging.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "broken charging.png"; path = "FinalProjectV1/Issue Pictures/broken charging.png"; sourceTree = "<group>"; };
+		63E11DC71EB241DB00E57FD8 /* broken screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "broken screen.png"; path = "FinalProjectV1/Issue Pictures/broken screen.png"; sourceTree = "<group>"; };
+		63E11DC81EB241DB00E57FD8 /* charging issue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "charging issue.png"; path = "FinalProjectV1/Issue Pictures/charging issue.png"; sourceTree = "<group>"; };
+		63E11DCE1EB2420200E57FD8 /* galaxy note 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "galaxy note 4.jpeg"; path = "FinalProjectV1/Galaxy Pictures/galaxy note 4.jpeg"; sourceTree = "<group>"; };
+		63E11DCF1EB2420200E57FD8 /* galaxy note 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "galaxy note 5.jpeg"; path = "FinalProjectV1/Galaxy Pictures/galaxy note 5.jpeg"; sourceTree = "<group>"; };
+		63E11DD01EB2420200E57FD8 /* galaxy s4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "galaxy s4.jpeg"; path = "FinalProjectV1/Galaxy Pictures/galaxy s4.jpeg"; sourceTree = "<group>"; };
+		63E11DD11EB2420200E57FD8 /* galaxy s5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "galaxy s5.jpeg"; path = "FinalProjectV1/Galaxy Pictures/galaxy s5.jpeg"; sourceTree = "<group>"; };
+		63E11DD21EB2420200E57FD8 /* galaxy s7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "galaxy s7.jpeg"; path = "FinalProjectV1/Galaxy Pictures/galaxy s7.jpeg"; sourceTree = "<group>"; };
+		63E11DD31EB2420200E57FD8 /* galaxyS6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = galaxyS6.jpeg; path = "FinalProjectV1/Galaxy Pictures/galaxyS6.jpeg"; sourceTree = "<group>"; };
+		63E11DDC1EB24C0000E57FD8 /* broken camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "broken camera.png"; path = "FinalProjectV1/Issue Pictures/broken camera.png"; sourceTree = "<group>"; };
+		63E11DDE1EB24CA600E57FD8 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		63E13FC21EB06AE40033616E /* Customer+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Customer+CoreDataProperties.swift"; path = "../Customer+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		63E13FC31EB06AE40033616E /* Customer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Customer.swift; path = ../Customer.swift; sourceTree = "<group>"; };
+		63E13FC61EB102F70033616E /* AndroidDevicesTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AndroidDevicesTVC.swift; path = ../AndroidDevicesTVC.swift; sourceTree = "<group>"; };
+		63E13FD71EB15E7A0033616E /* IphoneDevicesTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IphoneDevicesTVC.swift; sourceTree = "<group>"; };
+		63E13FEA1EB1C5980033616E /* SelectIssueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectIssueViewController.swift; sourceTree = "<group>"; };
+		63E13FEC1EB232670033616E /* defaultprofile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = defaultprofile.png; path = FinalProjectV1/defaultprofile.png; sourceTree = "<group>"; };
+		63E36CBB1EB26BFA00F11D6D /* TechniciansTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TechniciansTVC.swift; path = ../TechniciansTVC.swift; sourceTree = "<group>"; };
+		63E36CBD1EB287B400F11D6D /* showTimeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = showTimeViewController.swift; path = ../showTimeViewController.swift; sourceTree = "<group>"; };
+		63E998041EAC2141001EEAE0 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginViewController.swift; path = ../LoginViewController.swift; sourceTree = "<group>"; };
+		63E998061EAC262A001EEAE0 /* ProtectedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProtectedViewController.swift; sourceTree = "<group>"; };
+		63E998081EAC4091001EEAE0 /* RegisterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		63E9980A1EAEAF4D001EEAE0 /* SelectDeviceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectDeviceViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +98,10 @@
 		6328407A1EAB34C500BFF1A2 = {
 			isa = PBXGroup;
 			children = (
+				63E11DDE1EB24CA600E57FD8 /* Default-568h@2x.png */,
+				63E11DB71EB23D4900E57FD8 /* Issue Pictures */,
+				63E13FD91EB170D60033616E /* Iphone Pictures */,
+				63E13FCE1EB107220033616E /* Android Phone Pictures */,
 				632840851EAB34C700BFF1A2 /* FinalProjectV1 */,
 				632840841EAB34C600BFF1A2 /* Products */,
 			);
@@ -56,15 +118,64 @@
 		632840851EAB34C700BFF1A2 /* FinalProjectV1 */ = {
 			isa = PBXGroup;
 			children = (
+				63E13FC31EB06AE40033616E /* Customer.swift */,
+				63E36CBD1EB287B400F11D6D /* showTimeViewController.swift */,
+				63E13FC21EB06AE40033616E /* Customer+CoreDataProperties.swift */,
+				63E13FD71EB15E7A0033616E /* IphoneDevicesTVC.swift */,
+				63E13FC61EB102F70033616E /* AndroidDevicesTVC.swift */,
+				63E36CBB1EB26BFA00F11D6D /* TechniciansTVC.swift */,
+				63E13FEA1EB1C5980033616E /* SelectIssueViewController.swift */,
 				632840861EAB34C700BFF1A2 /* AppDelegate.swift */,
-				632840881EAB34C700BFF1A2 /* ViewController.swift */,
 				6328408A1EAB34C700BFF1A2 /* Main.storyboard */,
+				63E9980A1EAEAF4D001EEAE0 /* SelectDeviceViewController.swift */,
+				63E998081EAC4091001EEAE0 /* RegisterViewController.swift */,
+				63E998041EAC2141001EEAE0 /* LoginViewController.swift */,
+				63E998061EAC262A001EEAE0 /* ProtectedViewController.swift */,
 				632840901EAB34C700BFF1A2 /* Assets.xcassets */,
 				632840921EAB34C700BFF1A2 /* LaunchScreen.storyboard */,
 				632840951EAB34C700BFF1A2 /* Info.plist */,
 				6328408D1EAB34C700BFF1A2 /* FinalProjectV1.xcdatamodeld */,
 			);
 			path = FinalProjectV1;
+			sourceTree = "<group>";
+		};
+		63E11DB71EB23D4900E57FD8 /* Issue Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				63E11DDC1EB24C0000E57FD8 /* broken camera.png */,
+				63E13FEC1EB232670033616E /* defaultprofile.png */,
+				63E11DC41EB241DB00E57FD8 /* broken battery.png */,
+				63E11DC61EB241DB00E57FD8 /* broken charging.png */,
+				63E11DC71EB241DB00E57FD8 /* broken screen.png */,
+				63E11DC81EB241DB00E57FD8 /* charging issue.png */,
+			);
+			name = "Issue Pictures";
+			sourceTree = "<group>";
+		};
+		63E13FCE1EB107220033616E /* Android Phone Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				63E11DCE1EB2420200E57FD8 /* galaxy note 4.jpeg */,
+				63E11DCF1EB2420200E57FD8 /* galaxy note 5.jpeg */,
+				63E11DD01EB2420200E57FD8 /* galaxy s4.jpeg */,
+				63E11DD11EB2420200E57FD8 /* galaxy s5.jpeg */,
+				63E11DD21EB2420200E57FD8 /* galaxy s7.jpeg */,
+				63E11DD31EB2420200E57FD8 /* galaxyS6.jpeg */,
+			);
+			name = "Android Phone Pictures";
+			sourceTree = "<group>";
+		};
+		63E13FD91EB170D60033616E /* Iphone Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				63E11DB81EB241BF00E57FD8 /* Iphone 5.png */,
+				63E11DB91EB241BF00E57FD8 /* Iphone 5s.png */,
+				63E11DBA1EB241BF00E57FD8 /* Iphone 6 Plus.png */,
+				63E11DBB1EB241BF00E57FD8 /* Iphone 6.png */,
+				63E11DBC1EB241BF00E57FD8 /* IPhone 7 Plus.png */,
+				63E11DBD1EB241BF00E57FD8 /* Iphone 7.png */,
+			);
+			name = "Iphone Pictures";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -99,6 +210,7 @@
 				TargetAttributes = {
 					632840821EAB34C600BFF1A2 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = PMYCBH2Z2C;
 					};
 				};
 			};
@@ -125,8 +237,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63E11DD51EB2420200E57FD8 /* galaxy note 5.jpeg in Resources */,
+				63E11DDF1EB24CA600E57FD8 /* Default-568h@2x.png in Resources */,
+				63E11DCD1EB241DB00E57FD8 /* charging issue.png in Resources */,
+				63E11DC91EB241DB00E57FD8 /* broken battery.png in Resources */,
+				63E11DBE1EB241BF00E57FD8 /* Iphone 5.png in Resources */,
+				63E11DCC1EB241DB00E57FD8 /* broken screen.png in Resources */,
 				632840941EAB34C700BFF1A2 /* LaunchScreen.storyboard in Resources */,
+				63E11DD41EB2420200E57FD8 /* galaxy note 4.jpeg in Resources */,
+				63E13FED1EB232670033616E /* defaultprofile.png in Resources */,
+				63E11DBF1EB241BF00E57FD8 /* Iphone 5s.png in Resources */,
+				63E11DD81EB2420200E57FD8 /* galaxy s7.jpeg in Resources */,
+				63E11DCB1EB241DB00E57FD8 /* broken charging.png in Resources */,
+				63E11DC21EB241BF00E57FD8 /* IPhone 7 Plus.png in Resources */,
+				63E11DDD1EB24C0000E57FD8 /* broken camera.png in Resources */,
+				63E11DC31EB241BF00E57FD8 /* Iphone 7.png in Resources */,
 				632840911EAB34C700BFF1A2 /* Assets.xcassets in Resources */,
+				63E11DC01EB241BF00E57FD8 /* Iphone 6 Plus.png in Resources */,
+				63E11DD71EB2420200E57FD8 /* galaxy s5.jpeg in Resources */,
+				63E11DD61EB2420200E57FD8 /* galaxy s4.jpeg in Resources */,
+				63E11DC11EB241BF00E57FD8 /* Iphone 6.png in Resources */,
+				63E11DD91EB2420200E57FD8 /* galaxyS6.jpeg in Resources */,
 				6328408C1EAB34C700BFF1A2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,9 +269,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				632840891EAB34C700BFF1A2 /* ViewController.swift in Sources */,
+				63E998051EAC2141001EEAE0 /* LoginViewController.swift in Sources */,
+				63E998091EAC4091001EEAE0 /* RegisterViewController.swift in Sources */,
+				63E13FC71EB102F70033616E /* AndroidDevicesTVC.swift in Sources */,
+				63E998071EAC262A001EEAE0 /* ProtectedViewController.swift in Sources */,
+				63E13FD81EB15E7A0033616E /* IphoneDevicesTVC.swift in Sources */,
+				63E13FC51EB06AE40033616E /* Customer.swift in Sources */,
 				6328408F1EAB34C700BFF1A2 /* FinalProjectV1.xcdatamodeld in Sources */,
+				63E13FC41EB06AE40033616E /* Customer+CoreDataProperties.swift in Sources */,
+				63E9980B1EAEAF4D001EEAE0 /* SelectDeviceViewController.swift in Sources */,
+				63E36CBC1EB26BFA00F11D6D /* TechniciansTVC.swift in Sources */,
+				63E13FEB1EB1C5990033616E /* SelectIssueViewController.swift in Sources */,
 				632840871EAB34C700BFF1A2 /* AppDelegate.swift in Sources */,
+				63E36CBE1EB287B400F11D6D /* showTimeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,10 +396,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = FinalProjectV1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cs.fiu.FinalProjectV1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -266,10 +410,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = FinalProjectV1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cs.fiu.FinalProjectV1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -292,6 +439,7 @@
 				6328409A1EAB34C700BFF1A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
