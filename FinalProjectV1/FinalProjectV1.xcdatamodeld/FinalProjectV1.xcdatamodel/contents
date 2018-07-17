@@ -2,7 +2,7 @@
 <model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15G1010" minimumToolsVersion="Automatic">
     <entity name="Customer" representedClassName=".Customer" syncable="YES">
         <attribute name="confirmedPassword" optional="YES" attributeType="String" syncable="YES"/>
-        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="deviceIssue" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="deviceModel" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="devicePicture" optional="YES" attributeType="Binary" syncable="YES"/>

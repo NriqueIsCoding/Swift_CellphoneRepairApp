@@ -17,6 +17,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        
+//        let masterNavigationController = UINavigationController.viewControllers[0] as! UINavigationController
+//        let controller = masterNavigationController.topViewController as! MasterViewController
+//        controller.managedObjectContext = self.managedObjectContext
+        
+        //var navigationController = UINavigationController(rootViewController: RegisterViewController)
+        
+        
+        
         return true
     }
 
@@ -94,6 +103,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     // MARK: - Core Data Saving support
 
     func saveContext () {
+        
         if managedObjectContext.hasChanges {
             do {
                 try managedObjectContext.save()
@@ -106,6 +116,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
         }
     }
-
 }
+
+
+
 
